@@ -1,0 +1,14 @@
+---
+title: "APIs Coding Against the Web"
+author: "Steven M. Mortimer"
+date: "10/12/2018"
+output: 
+  github_document:
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, cache = FALSE)
+```
+
+# Functions
