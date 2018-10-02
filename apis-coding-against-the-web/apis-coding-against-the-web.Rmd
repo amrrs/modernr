@@ -1,7 +1,7 @@
 ---
 title: "APIs Coding Against the Web"
 author: "Steven M. Mortimer"
-date: "10/12/2018"
+date: "10/25/2018"
 output: 
   github_document:
     toc: true
@@ -11,4 +11,70 @@ output:
 knitr::opts_chunk$set(echo = TRUE, cache = FALSE)
 ```
 
-# Functions
+# Background
+
+## What Makes a SOAP API?
+
+SOAP
+Simple Object Access Protocol
+Protocol agnostic (HTTP, SMTP, TCP, or JMS)
+Almost always XML
+Definitions provided by WSDL
+(Web Service Description Language)
+
+Resources:
+The Difference Between SOAP and REST
+SOAP vs REST Challenges
+
+## What Makes a REST API?
+
+REST
+Representational State Transfer (principles, client not server controlled state)
+Noun-Verb Paradigm
+(HTTP GET/POST/PUT/DELETE)
+Almost always JSON
+(Javascript Object Notation)
+
+## Comparing XML and JSON
+
+
+## Setting up R for API work
+
+tidyverse
+dplyr, purrr, tidyr automatically loaded
+
+library(httr)
+library(xml2)
+library(jsonlite)
+
+one non-tidy package
+library(XML)
+
+## Methods to Authenticate
+
+
+## Becoming Familiar with HTTP Status Codes
+
+2XX - success!
+4XX - your fault!
+5XX - their fault!
+
+# The Open Movie Database API
+
+## Authenticating
+
+
+## Request and Parse XML 
+
+
+## Request and Parse JSON
+
+
+## Summary
+
+
+# The Square APIs
+
+## Authenticating to Square APIs
+
+## Making a call
