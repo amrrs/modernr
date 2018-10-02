@@ -17,7 +17,7 @@ Our couse of study will contain three 2 hour workshops. It will a small group, s
 Topics: Tricks from **lubridate**, `group_by`, `spread/gather`, `rename_all`, etc. plus the basics of writing functions
 
 #### Workshop #2: APIs: Coding Against the Web
-Topics: What is an API, REST vs. SOAP, WSDL vs. WADL, Dealing with APIs and R with code examples, **[squareupr]**(https://stevenmmortimer.github.io/squareupr/) overview
+Topics: What is an API, REST vs. SOAP, WSDL vs. WADL, Dealing with APIs and R with code examples, [**squareupr**](https://stevenmmortimer.github.io/squareupr/) overview
 
 #### Workshop #3: How Work in R gets Shared
 Topics: Markdown, Shiny? HTML, CSS, JavaScript, GitHub - Gitflow, Package structure, Project structure
