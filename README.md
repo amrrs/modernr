@@ -7,7 +7,7 @@ Second Friday of Sep/Oct/Nov?
 Date | Time | Location | Workshop | Topics
 ---|---|---|---|---------
 9/14 | 9:45am-11:45am | RRH 407N | Hacking it in the Tidyverse | Tricks from **lubridate**, **purrr** and **dplyr** including `group_by`, `rename_all`, etc. plus the basics of writing functions.
-10/25 | TBD | TBD | APIs: Coding Against the Web | What is an API, REST vs. SOAP, WSDL vs. WADL, Dealing with APIs and R with code examples, **squareupr** overview
+10/19 | 3pm-5pm | RRH 305 | APIs: Coding Against the Web | What is an API, REST vs. SOAP, WSDL vs. WADL, Dealing with APIs and R with code examples, **squareupr** overview
 11/16 | TBD | TBD | How Work in R gets Shared | Markdown, Shiny? HTML, CSS, JavaScript, GitHub - Gitflow, Package structure, Project structure
 
 ### Content
