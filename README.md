@@ -2,7 +2,6 @@
 A series of Workshops on Programming with the Modern R
 
 ### Workshop Schedule
-Second Friday of Sep/Oct/Nov?
 
 Date | Time | Location | Workshop | Topics
 ---|---|---|---|---------
