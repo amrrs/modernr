@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE, cache = FALSE)
 
 <center>
   <img src="./img/earl-2017-jeremy-morris.png" />
-</center>  
+</center><br>
 
 ## What is an API
 
