@@ -16,6 +16,7 @@ knitr::opts_chunk$set(echo = TRUE, cache = FALSE)
 
 <center>
   <img src="./img/earl-2017-jeremy-morris.png" />
+  <em>Credit: Jeremy Morris at EARL 2017</em>
 </center><br>
 
 ## What is an API
@@ -36,7 +37,7 @@ and REST), which we'll discuss next.
 
 <center>
   <img src="./img/soap-v-rest.png" />
-</center>  
+</center><br>
 
 ## What makes a SOAP API?
 
@@ -80,7 +81,7 @@ You can see that it's much simpler to read than the Salesforce SOAP API shown ab
 
 <center>
   <img src="./img/square-api-doc.png" />
-</center>  
+</center><br>  
 
 ## Working with XML and JSON
 

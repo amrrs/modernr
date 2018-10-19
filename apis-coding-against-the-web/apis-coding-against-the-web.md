@@ -26,7 +26,7 @@ Background
 ==========
 
 <center>
-<img src="./img/earl-2017-jeremy-morris.png" />
+<img src="./img/earl-2017-jeremy-morris.png" /> <em>Credit: Jeremy Morris at EARL 2017</em>
 </center>
 <br>
 
@@ -43,6 +43,8 @@ Today, we'll be discussing web-based data APIs. They abstract away the data bein
 <center>
 <img src="./img/soap-v-rest.png" />
 </center>
+<br>
+
 What makes a SOAP API?
 ----------------------
 
@@ -75,6 +77,8 @@ REST APIs are almost always JSON (Javascript Object Notation) where the instruct
 <center>
 <img src="./img/square-api-doc.png" />
 </center>
+<br>
+
 Working with XML and JSON
 -------------------------
 
@@ -239,7 +243,7 @@ response
 ```
 
     ## Response [https://connect.squareup.com/v2/locations]
-    ##   Date: 2018-10-19 03:08
+    ##   Date: 2018-10-19 03:15
     ##   Status: 401
     ##   Content-Type: application/json
     ##   Size: 601 B
@@ -274,7 +278,7 @@ response
 ```
 
     ## Response [https://connect.squareup.com/v2/location]
-    ##   Date: 2018-10-19 03:08
+    ##   Date: 2018-10-19 03:15
     ##   Status: 404
     ##   Content-Type: application/json
     ##   Size: 156 B
@@ -345,7 +349,7 @@ response
 ```
 
     ## Response [https://connect.squareup.com/v2/locations/1AWPRVVVFWGQF/transactions?begin_time=2018-10-05T00:00:00Z&end_time=2018-10-06T00:00:00Z&sort_order=DESC]
-    ##   Date: 2018-10-19 03:08
+    ##   Date: 2018-10-19 03:15
     ##   Status: 200
     ##   Content-Type: application/json
     ##   Size: 34.8 kB
