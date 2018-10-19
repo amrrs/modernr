@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE, cache = FALSE)
 
 <center>
   <img src="./img/earl-2017-jeremy-morris.png" />
-</center>
+</center>  
 
 ## What is an API
 
@@ -36,7 +36,7 @@ and REST), which we'll discuss next.
 
 <center>
   <img src="./img/soap-v-rest.png" />
-</center>
+</center>  
 
 ## What makes a SOAP API?
 
@@ -80,7 +80,7 @@ You can see that it's much simpler to read than the Salesforce SOAP API shown ab
 
 <center>
   <img src="./img/square-api-doc.png" />
-</center>
+</center>  
 
 ## Working with XML and JSON
 
@@ -397,7 +397,7 @@ to just listing customers.
 
 <img width="400px" src="./img/create-customer.png" />
 </br>
-<img width="400px" src="./img/list-customers.png" />
+<img width="400px" src="./img/list-customers.png" />  
 
 # Using the Square APIs (Connect v1 & v2)
 
